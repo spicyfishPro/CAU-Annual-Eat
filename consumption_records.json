@@ -1,0 +1,4363 @@
+[
+    {
+        "txdate": "2024-01-15 08:32:32",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-01-15 08:30:52",
+        "txamt": "-2.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-08 11:27:08",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层4号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-08 08:39:07",
+        "txamt": "-5.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-08 08:37:11",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-07 19:02:13",
+        "txamt": "-2.04",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-07 19:02:13",
+        "txamt": "-0.23",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-07 11:59:07",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-07 08:34:48",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-07 08:32:12",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-06 19:26:17",
+        "txamt": "-2.27",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-06 19:26:17",
+        "txamt": "-0.26",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-06 12:09:11",
+        "txamt": "-11.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-06 08:09:19",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-06 08:08:49",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-05 21:54:22",
+        "txamt": "-2.00",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-05 21:54:22",
+        "txamt": "-0.23",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-05 08:41:49",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-05 08:39:49",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-04 19:30:17",
+        "txamt": "-2.06",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-04 19:30:17",
+        "txamt": "-0.23",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-04 17:53:38",
+        "txamt": "19.23",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-04 18:03:23",
+        "txamt": "8.59",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-04 11:28:34",
+        "txamt": "13.31",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-04 06:56:26",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-04 06:55:43",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-03 18:30:38",
+        "txamt": "-2.01",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-03 18:30:38",
+        "txamt": "-0.23",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-03 17:30:40",
+        "txamt": "11.42",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-02-28 11:19:33",
+        "txamt": "9.77",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-02-28 06:57:38",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-02-28 06:56:33",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-02-27 18:28:09",
+        "txamt": "-2.20",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-02-27 18:28:09",
+        "txamt": "-0.25",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-02-27 11:46:45",
+        "txamt": "8.11",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-02-27 08:37:47",
+        "txamt": "-5.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-02-27 08:36:15",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-02-26 18:56:47",
+        "txamt": "-2.00",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-02-26 18:56:47",
+        "txamt": "-0.23",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-02-26 18:06:47",
+        "txamt": "10.84",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-02-26 11:31:39",
+        "txamt": "-11.50",
+        "mername": "西区和园一层主食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-02-26 06:55:45",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-02-26 06:54:55",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-02-25 17:45:28",
+        "txamt": "-10.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-24 18:08:32",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-22 11:20:31",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层4号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-22 07:13:08",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-22 07:12:59",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-22 07:11:45",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-21 19:02:24",
+        "txamt": "-2.25",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-21 19:02:24",
+        "txamt": "-0.26",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-21 14:17:08",
+        "txamt": "-1.00",
+        "mername": "东区班车管理",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-21 12:00:23",
+        "txamt": "11.93",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-21 08:36:41",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-21 08:36:27",
+        "txamt": "-5.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-21 08:35:29",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-20 19:16:44",
+        "txamt": "-2.15",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-20 19:16:44",
+        "txamt": "-0.24",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-20 12:07:42",
+        "txamt": "11.13",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-20 07:59:49",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-20 07:59:22",
+        "txamt": "-3.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-20 07:58:14",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-19 21:42:22",
+        "txamt": "-1.84",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-19 21:42:22",
+        "txamt": "-0.21",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-19 17:23:03",
+        "txamt": "10.60",
+        "mername": "西区和园二层麻辣烫麻辣香锅",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-19 17:33:07",
+        "txamt": "-5.00",
+        "mername": "西区和园二层披萨小屋",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-19 11:24:41",
+        "txamt": "15.17",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-19 09:00:35",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-19 09:00:29",
+        "txamt": "-5.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-19 08:58:52",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-18 19:06:13",
+        "txamt": "-2.33",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-18 19:06:13",
+        "txamt": "-0.26",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-18 18:03:31",
+        "txamt": "10.94",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-18 18:11:05",
+        "txamt": "-7.10",
+        "mername": "西区和园二层披萨小屋",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-18 11:20:50",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-18 06:57:25",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-18 06:57:12",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-18 06:55:58",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-15 07:08:09",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-15 07:07:10",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-14 18:41:47",
+        "txamt": "-1.87",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-14 18:41:47",
+        "txamt": "-0.21",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-14 17:53:29",
+        "txamt": "13.38",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-14 17:54:50",
+        "txamt": "500.00",
+        "mername": "微信支付转账充值",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-14 12:01:56",
+        "txamt": "-10.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-14 08:36:25",
+        "txamt": "-5.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-14 08:33:40",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-13 18:59:53",
+        "txamt": "-2.17",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-13 18:59:53",
+        "txamt": "-0.25",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-13 12:06:29",
+        "txamt": "8.11",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-13 08:12:24",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-13 08:10:30",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-12 21:56:19",
+        "txamt": "-1.62",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-12 21:56:19",
+        "txamt": "-0.19",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-12 11:25:53",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层4号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-12 08:37:44",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-12 08:36:05",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-11 18:49:31",
+        "txamt": "-1.97",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-11 18:49:31",
+        "txamt": "-0.22",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-11 17:59:21",
+        "txamt": "11.70",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-11 11:26:37",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-11 06:57:07",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-11 06:56:10",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-08 18:54:46",
+        "txamt": "-2.25",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-08 18:54:46",
+        "txamt": "-0.26",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-08 18:06:37",
+        "txamt": "12.22",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-08 12:01:37",
+        "txamt": "17.00",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-08 06:53:35",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-08 06:52:53",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-08 06:52:05",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-07 20:25:26",
+        "txamt": "-2.06",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-07 20:25:26",
+        "txamt": "-0.23",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-07 17:50:11",
+        "txamt": "-6.00",
+        "mername": "西区颐园二层饮料超市",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-07 17:28:30",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-03 17:19:17",
+        "txamt": "14.73",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-03 12:34:07",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层饮料超市",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-03 12:10:00",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-03 07:50:30",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-03 07:50:28",
+        "txamt": "-5.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-03 07:48:11",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-02 21:53:48",
+        "txamt": "-1.61",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-02 21:53:48",
+        "txamt": "-0.18",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-02 17:24:18",
+        "txamt": "13.09",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-01 18:53:44",
+        "txamt": "-2.32",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-01 18:53:44",
+        "txamt": "-0.26",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-01 18:04:22",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-01 12:00:06",
+        "txamt": "14.75",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-01 06:52:17",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-01 06:52:07",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-01 06:50:53",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-29 11:32:25",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-29 06:54:45",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-29 06:54:33",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-29 06:52:29",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-28 21:21:03",
+        "txamt": "-1.72",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-28 21:21:03",
+        "txamt": "-0.20",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-28 17:26:27",
+        "txamt": "17.51",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-28 11:26:37",
+        "txamt": "13.95",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-28 08:39:08",
+        "txamt": "-2.60",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-27 19:08:38",
+        "txamt": "-2.62",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-27 19:08:38",
+        "txamt": "-0.30",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-27 18:09:00",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-27 12:07:34",
+        "txamt": "-6.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-27 08:33:12",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-27 08:33:12",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-27 08:30:58",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-26 18:26:20",
+        "txamt": "-2.39",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-26 18:26:20",
+        "txamt": "-0.27",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-25 16:24:53",
+        "txamt": "-2.33",
+        "mername": "西区校医院扫码POS收费",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-25 16:10:58",
+        "txamt": "-5.72",
+        "mername": "西区校医院扫码POS收费",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-25 16:07:49",
+        "txamt": "-1.00",
+        "mername": "西区校医院挂号收费",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-25 12:08:50",
+        "txamt": "12.34",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-25 08:33:15",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-25 08:32:50",
+        "txamt": "-5.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-03-25 08:31:48",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-23 21:31:37",
+        "txamt": "-3.09",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-23 11:26:48",
+        "txamt": "17.70",
+        "mername": "西区和园二层麻辣烫麻辣香锅",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-23 08:35:02",
+        "txamt": "-5.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-23 08:33:23",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-22 18:22:31",
+        "txamt": "-3.06",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-22 17:16:00",
+        "txamt": "13.33",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-22 06:53:20",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-22 06:53:09",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-22 06:51:57",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-19 11:17:42",
+        "txamt": "-1.00",
+        "mername": "西区车队",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-19 10:45:52",
+        "txamt": "-8.20",
+        "mername": "西区颐园二层3号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-19 06:53:10",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-19 06:53:03",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-19 06:51:27",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-18 20:47:18",
+        "txamt": "-1.80",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-18 20:47:18",
+        "txamt": "-0.21",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-18 17:18:26",
+        "txamt": "15.25",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-18 11:48:53",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-18 08:37:38",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-18 08:37:13",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-18 08:34:07",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-17 19:04:52",
+        "txamt": "-2.26",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-17 19:04:52",
+        "txamt": "-0.26",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-17 18:04:52",
+        "txamt": "17.70",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-17 18:12:01",
+        "txamt": "-4.00",
+        "mername": "西区和园二层开胃拌菜",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-17 12:08:11",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-17 06:57:00",
+        "txamt": "500.00",
+        "mername": "微信支付转账充值",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-17 06:54:02",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-17 06:53:54",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-17 06:52:37",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-16 21:26:19",
+        "txamt": "-1.88",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-16 21:26:19",
+        "txamt": "-0.22",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-16 17:23:14",
+        "txamt": "14.80",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-16 11:27:03",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-16 08:38:09",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-16 08:37:42",
+        "txamt": "-4.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-16 08:35:53",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-15 18:55:22",
+        "txamt": "-2.52",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-15 18:55:22",
+        "txamt": "-0.28",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-15 18:04:06",
+        "txamt": "10.25",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-15 18:10:48",
+        "txamt": "-4.00",
+        "mername": "西区和园二层开胃拌菜",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-15 06:52:26",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-15 06:52:14",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-15 06:51:36",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-12 17:35:30",
+        "txamt": "-10.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-12 11:30:32",
+        "txamt": "14.48",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-12 06:53:58",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-12 06:53:55",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-12 06:53:04",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-11 18:52:53",
+        "txamt": "-2.48",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-11 18:52:53",
+        "txamt": "-0.28",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-11 17:45:48",
+        "txamt": "-6.00",
+        "mername": "西区颐园二层3号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-11 17:34:13",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-11 12:00:04",
+        "txamt": "13.56",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-11 08:36:25",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-11 08:35:48",
+        "txamt": "-4.20",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-11 08:33:38",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-10 19:02:17",
+        "txamt": "-2.27",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-10 19:02:17",
+        "txamt": "-0.26",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-10 18:04:29",
+        "txamt": "11.94",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-10 18:14:02",
+        "txamt": "-4.00",
+        "mername": "西区和园二层开胃拌菜",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-10 12:10:29",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-10 06:53:45",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-10 06:53:11",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-10 06:52:24",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-09 21:39:18",
+        "txamt": "-1.68",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-09 21:39:18",
+        "txamt": "-0.19",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-09 17:25:19",
+        "txamt": "9.64",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-09 17:31:20",
+        "txamt": "-6.00",
+        "mername": "西区和园二层开胃拌菜",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-09 11:28:31",
+        "txamt": "5.00",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-09 11:28:31",
+        "txamt": "16.20",
+        "mername": "西区和园二层麻辣烫麻辣香锅",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-09 08:38:48",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-09 08:37:17",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-08 19:02:21",
+        "txamt": "-3.14",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-08 12:11:28",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-08 06:54:13",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-08 06:54:27",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-08 06:53:32",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-07 18:18:08",
+        "txamt": "-3.06",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-07 17:18:21",
+        "txamt": "16.50",
+        "mername": "西区和园二层麻辣烫麻辣香锅",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-07 17:18:21",
+        "txamt": "5.00",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-07 12:39:05",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层4号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-06 18:22:05",
+        "txamt": "-3.17",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-06 17:26:08",
+        "txamt": "16.64",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-06 11:28:11",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-06 06:55:29",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-06 06:55:13",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-06 06:53:46",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-30 11:28:49",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层4号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-30 08:36:22",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-30 08:35:45",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-30 08:33:40",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-29 18:23:13",
+        "txamt": "-3.60",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-29 17:22:30",
+        "txamt": "15.49",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-29 11:22:39",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-29 06:55:15",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-29 06:55:06",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-29 06:54:16",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-26 11:22:44",
+        "txamt": "18.16",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-26 06:54:54",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-26 06:54:32",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-26 06:53:23",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-25 18:19:28",
+        "txamt": "-3.57",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-25 17:28:57",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层饮料超市",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-25 17:23:48",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-25 11:59:09",
+        "txamt": "16.30",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-25 08:33:22",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-25 08:33:08",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-25 08:31:27",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-24 18:13:38",
+        "txamt": "-3.28",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-24 17:17:20",
+        "txamt": "17.38",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-24 12:08:08",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-24 06:53:24",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-24 06:53:18",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-04-24 06:52:05",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-23 21:27:40",
+        "txamt": "-3.03",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-23 11:52:17",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-23 07:39:09",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-23 07:37:24",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-22 18:10:59",
+        "txamt": "-2.76",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-22 17:21:45",
+        "txamt": "17.19",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-17 11:18:21",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-17 06:56:03",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-17 06:55:50",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-17 06:55:22",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-16 18:37:48",
+        "txamt": "-3.39",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-16 17:32:10",
+        "txamt": "12.82",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-16 08:29:04",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-16 08:29:13",
+        "txamt": "-4.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-16 08:27:22",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-15 18:11:24",
+        "txamt": "-3.48",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-15 17:24:19",
+        "txamt": "16.41",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-15 12:06:31",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-15 06:52:42",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-15 06:52:32",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-15 06:52:14",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-13 06:55:46",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-13 06:55:34",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-13 06:54:49",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-12 19:00:02",
+        "txamt": "-3.35",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-12 17:58:52",
+        "txamt": "13.19",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-12 18:07:07",
+        "txamt": "-4.00",
+        "mername": "西区和园二层水果捞",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-12 18:01:11",
+        "txamt": "500.00",
+        "mername": "微信支付转账充值",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-12 11:57:25",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-10 07:00:16",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-10 07:00:31",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-10 06:59:29",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-09 18:20:44",
+        "txamt": "-3.24",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-09 17:35:43",
+        "txamt": "-6.00",
+        "mername": "西区颐园二层饮料超市",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-09 17:21:18",
+        "txamt": "-12.90",
+        "mername": "西区颐园二层3号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-09 12:44:58",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层4号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-06-07 06:56:26",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-06-07 06:56:16",
+        "txamt": "-4.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-06-07 06:55:24",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-06-06 18:20:15",
+        "txamt": "-2.16",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-06-06 18:20:15",
+        "txamt": "-0.24",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-06-06 17:31:15",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-29 12:07:14",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-24 11:28:04",
+        "txamt": "-10.00",
+        "mername": "西区颐园二层4号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-24 06:54:04",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-24 06:53:27",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-05-24 06:53:07",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-06-20 19:37:52",
+        "txamt": "-2.20",
+        "mername": "西区浴室运营商",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-06-20 19:37:52",
+        "txamt": "-0.25",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-06-20 18:31:43",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-07-02 06:48:51",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-07-02 06:49:01",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-07-02 06:47:41",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-06-25 11:29:39",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-06-25 06:48:08",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-06-25 06:47:52",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-06-25 06:46:38",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-07-15 12:57:27",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层饮料超市",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-07-15 12:41:17",
+        "txamt": "-25.00",
+        "mername": "西区颐园二层4号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-07-15 12:40:19",
+        "txamt": "-15.00",
+        "mername": "西区颐园二层2号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-07-15 12:38:31",
+        "txamt": "-5.00",
+        "mername": "西区颐园二层3号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-07-15 12:19:55",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-08-06 12:46:15",
+        "txamt": "-6.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-07-29 12:24:55",
+        "txamt": "-4.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-07-29 12:24:32",
+        "txamt": "-2.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-07-25 12:36:22",
+        "txamt": "-8.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-07-23 12:03:48",
+        "txamt": "-8.60",
+        "mername": "西区颐园一层水果",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-07-23 11:47:48",
+        "txamt": "-5.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-08-20 12:36:16",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-08-14 12:39:05",
+        "txamt": "-4.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-08-14 12:38:18",
+        "txamt": "-11.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-08-08 12:30:27",
+        "txamt": "-5.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-08-08 12:30:11",
+        "txamt": "-3.25",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-02 17:51:51",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-02 06:49:38",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-02 06:48:43",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-02 06:48:30",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-01 18:50:58",
+        "txamt": "-2.72",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-01 17:58:12",
+        "txamt": "-64.50",
+        "mername": "西区颐园一层水果",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-01 17:31:41",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层清真档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-01 16:18:56",
+        "txamt": "500.00",
+        "mername": "微信支付转账充值",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-01 12:27:14",
+        "txamt": "-71.40",
+        "mername": "西区颐园一层水果",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-01 12:06:20",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-08-31 11:50:45",
+        "txamt": "1.00",
+        "mername": "西区和园二层麻辣烫麻辣香锅",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-08-31 11:50:45",
+        "txamt": "19.13",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-08-31 11:50:48",
+        "txamt": "12.36",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-08-26 13:04:23",
+        "txamt": "-16.40",
+        "mername": "西区颐园一层水果",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-08-26 12:46:03",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-20 08:27:02",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-20 08:26:35",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-20 08:25:45",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-19 21:38:30",
+        "txamt": "-2.17",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-19 17:18:59",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层清真档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-19 06:48:09",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-19 06:47:38",
+        "txamt": "-3.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-19 06:46:48",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-18 18:27:56",
+        "txamt": "-2.39",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-18 11:29:48",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-18 06:53:06",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-18 06:52:54",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-18 06:51:51",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-17 19:27:30",
+        "txamt": "-2.37",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-17 17:57:46",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层清真档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-13 12:20:50",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层清真档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-12 06:49:19",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-12 06:49:09",
+        "txamt": "-3.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-12 06:48:16",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-11 18:45:43",
+        "txamt": "-2.57",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-11 17:31:29",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-10 11:26:42",
+        "txamt": "-10.00",
+        "mername": "西区颐园二层4号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-09 19:38:10",
+        "txamt": "-2.46",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-09 12:06:48",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-09 06:49:13",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-09 06:48:55",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-09 06:48:47",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-09 06:48:07",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-06 06:52:22",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-06 06:51:53",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-06 06:51:02",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-30 06:50:01",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-30 06:49:46",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-30 06:48:56",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-27 12:11:55",
+        "txamt": "-30.00",
+        "mername": "西区颐园二层清真档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-26 11:54:18",
+        "txamt": "-9.25",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-26 08:45:17",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-26 08:45:10",
+        "txamt": "-3.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-26 08:42:59",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-25 19:10:28",
+        "txamt": "-2.84",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-25 17:28:01",
+        "txamt": "-5.00",
+        "mername": "西区颐园二层3号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-25 06:50:18",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-25 06:50:06",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-25 06:48:50",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-24 17:50:19",
+        "txamt": "-2.76",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-24 11:58:27",
+        "txamt": "-20.25",
+        "mername": "西区和园一层主食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-24 11:16:39",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-24 06:50:46",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-24 06:50:36",
+        "txamt": "-3.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-24 06:48:53",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-23 18:38:20",
+        "txamt": "-2.66",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-23 17:22:21",
+        "txamt": "11.83",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-23 17:32:23",
+        "txamt": "-4.00",
+        "mername": "西区和园二层水果捞",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-23 12:03:02",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层清真档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-23 06:49:21",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-23 06:49:11",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-09-23 06:47:35",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-18 08:19:44",
+        "txamt": "8.00",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-17 21:41:16",
+        "txamt": "-2.08",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-17 06:50:15",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-17 06:50:01",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-17 06:49:23",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-16 18:41:40",
+        "txamt": "-2.57",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-16 17:27:43",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层清真档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-16 06:50:52",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-16 06:50:29",
+        "txamt": "-3.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-16 06:50:02",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-15 17:07:21",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层4号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-15 16:28:07",
+        "txamt": "-2.58",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-15 10:50:29",
+        "txamt": "19.47",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-15 06:51:23",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-15 06:49:59",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-15 06:49:24",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-14 18:16:53",
+        "txamt": "-2.68",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-14 18:16:39",
+        "txamt": "-0.03",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-14 17:11:23",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-14 12:25:48",
+        "txamt": "-5.86",
+        "mername": "西区颐园一层水果",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-14 06:48:41",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-14 06:48:23",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-14 06:47:54",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-11 07:51:40",
+        "txamt": "7.02",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-10 21:35:49",
+        "txamt": "-2.23",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-10 16:58:54",
+        "txamt": "5.43",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-10 16:58:54",
+        "txamt": "13.00",
+        "mername": "西区和园二层石锅拌饭铁板饭日式铁板",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-10 06:52:56",
+        "txamt": "-3.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-10 06:50:16",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-09 18:27:14",
+        "txamt": "-2.60",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-09 17:35:56",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层清真档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-09 06:49:58",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-09 06:49:48",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-09 06:49:05",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-08 16:35:13",
+        "txamt": "-2.53",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-08 11:01:14",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-08 06:51:30",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-08 06:51:18",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-08 06:50:18",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-04 17:12:12",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层3号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-01 16:18:31",
+        "txamt": "-7.59",
+        "mername": "西区校医院扫码POS收费",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-01 16:03:07",
+        "txamt": "-5.72",
+        "mername": "西区校医院扫码POS收费",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-01 15:45:34",
+        "txamt": "-1.00",
+        "mername": "西区校医院挂号收费",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-01 12:52:05",
+        "txamt": "-10.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-01 08:19:40",
+        "txamt": "6.61",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-31 21:32:01",
+        "txamt": "-2.02",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-31 16:58:00",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-31 06:52:03",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-31 06:51:21",
+        "txamt": "-3.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-31 06:50:41",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-30 18:21:45",
+        "txamt": "-2.88",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-30 17:15:33",
+        "txamt": "14.62",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-30 17:47:00",
+        "txamt": "-6.72",
+        "mername": "西区和园一层水果",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-30 06:53:18",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-30 06:53:02",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-30 06:51:15",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-29 17:09:20",
+        "txamt": "-14.00",
+        "mername": "西区颐园二层清真档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-29 16:19:34",
+        "txamt": "-2.89",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-29 16:18:38",
+        "txamt": "-0.13",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-29 11:00:21",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-29 06:52:56",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-29 06:52:45",
+        "txamt": "-3.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-29 06:52:25",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-28 18:39:59",
+        "txamt": "-2.80",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-28 17:28:52",
+        "txamt": "-14.00",
+        "mername": "西区颐园二层2号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-28 12:01:23",
+        "txamt": "-12.00",
+        "mername": "颐园三层",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-28 06:48:34",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-28 06:48:23",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-28 06:48:01",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-25 12:11:03",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层清真档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-25 12:10:06",
+        "txamt": "1000.00",
+        "mername": "微信支付转账充值",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-24 06:53:41",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-24 06:53:13",
+        "txamt": "-3.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-24 06:52:44",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-23 18:53:20",
+        "txamt": "-2.72",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-23 17:48:31",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-23 06:52:35",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-23 06:52:23",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-23 06:50:49",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-22 17:19:48",
+        "txamt": "-14.00",
+        "mername": "西区颐园二层2号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-22 16:36:11",
+        "txamt": "-2.86",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-22 11:03:07",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层4号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-22 06:52:17",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-22 06:51:53",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-22 06:51:30",
+        "txamt": "-3.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-21 18:21:45",
+        "txamt": "-2.66",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-21 17:15:25",
+        "txamt": "12.89",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-21 12:02:10",
+        "txamt": "-14.00",
+        "mername": "颐园三层",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-21 06:49:32",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-21 06:49:16",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-10-21 06:48:49",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-19 20:34:20",
+        "txamt": "-5.00",
+        "mername": "西区和园一层月饼",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-19 18:03:46",
+        "txamt": "-2.91",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-19 17:09:12",
+        "txamt": "-14.00",
+        "mername": "颐园三层",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-15 12:06:41",
+        "txamt": "-14.00",
+        "mername": "颐园三层",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-14 17:40:01",
+        "txamt": "-1.00",
+        "mername": "西区车队",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-14 16:52:12",
+        "txamt": "-26.80",
+        "mername": "东区公寓二食堂自助餐",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-14 14:15:36",
+        "txamt": "-1.00",
+        "mername": "东区班车管理",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-14 11:22:30",
+        "txamt": "-10.80",
+        "mername": "西区颐园二层3号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-13 12:07:00",
+        "txamt": "-13.00",
+        "mername": "颐园三层",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-13 06:51:18",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-13 06:51:03",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-13 06:50:36",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-12 18:22:54",
+        "txamt": "-3.00",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-12 17:15:49",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层4号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-12 10:41:07",
+        "txamt": "-18.00",
+        "mername": "西区和园二层开胃拌菜",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-12 06:51:02",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-12 06:50:50",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-12 06:50:09",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-11 17:36:40",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-08 12:08:04",
+        "txamt": "-12.00",
+        "mername": "颐园三层",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-07 06:55:01",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-07 06:54:46",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-07 06:51:50",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-06 18:06:28",
+        "txamt": "-2.95",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-06 17:11:29",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层清真档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-06 12:08:29",
+        "txamt": "-13.00",
+        "mername": "颐园三层",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-06 06:52:10",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-06 06:51:29",
+        "txamt": "-3.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-06 06:50:42",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-05 20:51:47",
+        "txamt": "-5.00",
+        "mername": "西区和园一层月饼",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-05 17:10:22",
+        "txamt": "-14.00",
+        "mername": "西区颐园二层2号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-05 16:37:36",
+        "txamt": "-2.78",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-05 11:31:09",
+        "txamt": "-11.00",
+        "mername": "西区颐园二层清真档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-05 06:52:49",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-05 06:52:35",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-05 06:51:57",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-04 12:41:42",
+        "txamt": "-14.00",
+        "mername": "西区颐园二层2号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-04 06:50:53",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-04 06:50:42",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-04 06:50:07",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-02 12:02:40",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-02 06:50:27",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-02 06:50:07",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-02 06:49:53",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-29 12:34:23",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层清真档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-28 17:16:46",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-28 12:34:02",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-27 06:50:03",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-27 06:49:49",
+        "txamt": "-2.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-27 06:49:01",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-26 17:16:16",
+        "txamt": "-14.00",
+        "mername": "西区颐园二层2号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-25 12:13:28",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层清真档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-22 12:09:46",
+        "txamt": "-12.00",
+        "mername": "颐园三层",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-20 06:52:03",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-20 06:51:47",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-11-20 06:50:53",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-19 17:30:49",
+        "txamt": "-14.00",
+        "mername": "西区颐园二层2号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-18 12:07:20",
+        "txamt": "-14.00",
+        "mername": "颐园三层",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-17 11:21:29",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-17 06:53:08",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-17 06:52:57",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-17 06:52:14",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-16 18:39:08",
+        "txamt": "-0.04",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-16 18:27:25",
+        "txamt": "-2.05",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-16 17:21:58",
+        "txamt": "12.53",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-16 11:46:31",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层清真档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-16 06:50:48",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-16 06:50:33",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-16 06:49:59",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-13 12:09:56",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-11 12:06:39",
+        "txamt": "-12.00",
+        "mername": "颐园三层",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-11 06:52:58",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-11 06:52:44",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-11 06:51:59",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-10 17:31:38",
+        "txamt": "-2.31",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-10 11:14:49",
+        "txamt": "-26.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-10 11:08:00",
+        "txamt": "-14.00",
+        "mername": "西区颐园二层2号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-10 06:52:31",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-10 06:52:20",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-10 06:51:42",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-09 17:37:18",
+        "txamt": "15.05",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-09 11:09:43",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层清真档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-09 06:53:40",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-09 06:53:29",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-09 06:53:00",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-08 18:15:50",
+        "txamt": "-2.67",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-08 17:13:03",
+        "txamt": "6.52",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-08 06:52:32",
+        "txamt": "-21.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-08 06:51:43",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-08 06:51:21",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-08 06:50:36",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-06 12:08:10",
+        "txamt": "-14.00",
+        "mername": "颐园三层",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-05 17:32:41",
+        "txamt": "-12.00",
+        "mername": "颐园三层",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-31 13:52:36",
+        "txamt": "-1.00",
+        "mername": "西区校医院挂号收费",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-31 06:52:51",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-31 06:52:40",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-31 06:51:08",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-30 17:14:09",
+        "txamt": "11.38",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-30 16:31:41",
+        "txamt": "-2.11",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-30 12:46:16",
+        "txamt": "-12.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-27 12:11:36",
+        "txamt": "-12.00",
+        "mername": "颐园三层",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-26 17:09:13",
+        "txamt": "8.09",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-24 11:29:25",
+        "txamt": "-11.80",
+        "mername": "西区颐园二层3号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-24 06:55:36",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-24 06:55:23",
+        "txamt": "-4.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-24 06:53:58",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-23 18:15:14",
+        "txamt": "-2.99",
+        "mername": "西区男浴室",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-23 17:07:42",
+        "txamt": "11.03",
+        "mername": "西区和园二层智慧食堂",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-23 11:28:53",
+        "txamt": "-11.00",
+        "mername": "西区颐园二层5号档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-23 06:51:24",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-23 06:51:11",
+        "txamt": "-1.50",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-23 06:50:41",
+        "txamt": "-1.00",
+        "mername": "西区颐园一层主副食",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2024-12-20 12:36:01",
+        "txamt": "-13.00",
+        "mername": "西区颐园二层清真档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2025-01-07 12:15:12",
+        "txamt": "-25.00",
+        "mername": "西区颐园二层清真档口",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2025-01-06 16:11:10",
+        "txamt": "-8.12",
+        "mername": "西区校医院扫码POS收费",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2025-01-06 15:50:04",
+        "txamt": "-1.00",
+        "mername": "西区校医院挂号收费",
+        "tradetype": null,
+        "acctype": null
+    },
+    {
+        "txdate": "2025-01-06 15:42:30",
+        "txamt": "200.00",
+        "mername": "微信支付转账充值",
+        "tradetype": null,
+        "acctype": null
+    }
+]
